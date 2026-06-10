@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 Como Executar a Solução
+## Como Executar a Solução
 
 1. Certifique-se de ter o [JDK (Java Development Kit)](https://www.oracle.com/java/technologies/downloads/) instalado na sua máquina.
 2. Clone este repositório ou baixe os arquivos fonte.

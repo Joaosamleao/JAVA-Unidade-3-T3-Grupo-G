@@ -55,3 +55,7 @@ Na nossa implementação, o grafo residual é gerenciado implicitamente através
 1. Arestas Múltiplas / Paralelas: Pode haver mais de um cabo conectando os mesmos dois computadores. Modelamos isso não substituindo a capacidade, mas somando os valores na matriz de adjacência: cap[u][v] += bandwidth.
 2. Conexões Bidirecionais: Os cabos de internet no problema permitem fluxo em ambos os sentidos. Portanto, quando lemos uma conexão entre $u$ e $v$, nós inicializamos cap[u][v] e cap[v][u] simultaneamente com a largura de banda dada.
 3. Índices Base-0: O problema fornece os computadores numerados de 1 a n. Para mapeá-los corretamente na nossa matriz (que vai de 0 a n-1), subtraímos 1 dos valores lidos para a origem, destino e conexões.
+
+## Evidência de Aprovação
+<img width="660" height="85" alt="image" src="https://github.com/user-attachments/assets/a225f88c-3667-472a-8cb5-eb2fdc0f9f63" />
+

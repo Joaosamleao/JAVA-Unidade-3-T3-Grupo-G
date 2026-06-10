@@ -1,4 +1,4 @@
-# UVA 820 - Internet Bandwidth
+# UVA 820 - Internet Bandwidth - Grupo G
 
 ## Sobre o Problema
 * **Nome do Problema:** Internet Bandwidth (UVA 820)
